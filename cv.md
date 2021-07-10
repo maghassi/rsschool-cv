@@ -9,3 +9,32 @@
 
 
 **Summary:** I am dedicated person who would like to explore programming from depth and get involved in a big scale projects. I have an interest in front-end and full-stack programming and passion to solve alghoritmhic problems. 
+
+--------------
+
+**Skills** *Javascript*, *HTML*, *CSS*, *Object-Oriented Programming*, *Data Structures and Algorithms*, *Git*, *React*
+
+
+--------------
+
+**Code Example** 
+
+```let savetext = document.getElementById("save-el");
+
+let count = 0; 
+fig = document.getElementById("count-el");
+
+function increment (){
+    count = count +1;
+    fig.innerText = count;
+    console.log(count);
+}
+
+function save(){
+    let countStr = " " + count + " - ";
+    savetext.textContent += countStr;
+    console.log(count);
+    fig.innerText = 0;
+    count = 0;
+}
+```
