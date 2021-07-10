@@ -38,3 +38,28 @@ function save(){
     count = 0;
 }
 ```
+
+--------------
+
+**Experience** 
+
+Junior Front-End Developer*
+
+*Main Responsibilities:*
+- develop / update source code
+- integrate 3-rd party APIs
+- maintain code
+- write documentation
+ - report to PM
+
+---------------
+**Education**
+Front-End Course - Rolling Scope School
+
+---------------
+
+**English Language Level**
+
+Advanced (C1)
+
+
